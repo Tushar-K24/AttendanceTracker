@@ -1,0 +1,29 @@
+{"cse-24": time_table}
+start date, end date
+
+////
+time_table -> 
+{
+ Day: list of classes,
+}
+
+attendance ->
+{
+  Subject -> no. of classes present,
+}
+////
+
+remaining_days ->
+{
+  Subject -> no. of classes to attend,
+}
+
+////
+schedule->
+{
+  Day -> count
+}
+e.g., "Monday" : 2, you need to attend all the classes for 2 mondays
+
+
+HELP BHAIHYAA//////////lfefkrglrfkdfdlldflklkadkflkldklfkldklkflkllfkklkklslkk
