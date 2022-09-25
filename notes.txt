@@ -25,5 +25,11 @@ schedule->
 }
 e.g., "Monday" : 2, you need to attend all the classes for 2 mondays
 
+https://discordpy.readthedocs.io/en/stable/api.html?highlight=wait_for#discord.Client.wait_for
 
-HELP BHAIHYAA//////////lfefkrglrfkdfdlldflklkadkflkldklfkldklkflkllfkklkklslkk
+https://stackoverflow.com/questions/66286918/discord-py-wait-for-is-not-reading-messages 
+
+#suggestions
+
+1. Scheduler doesn't takes into account the boundations on the number of weekdays.
+2. Use optimal dp (constraints can be really heavy here)
